@@ -1,0 +1,614 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Eid",
+    "sunnah": "Sunnah",
+    "prayer": "Prayer Guide",
+    "sadaqah": "Sadaqat-ul-Fitr",
+    "dodont": "Do's & Don'ts",
+    "previous": "Previous",
+    "next": "Next Page"
+  },
+  "hero": {
+    "title": "Celebrate Eid According to the Sunnah",
+    "subtitle": "Your complete guide to understanding, preparing for, and celebrating Eid-ul-Fitr and Eid-ul-Adha in the light of Islamic teachings.",
+    "cta_start": "Get Started",
+    "cta_checklist": "Eid Checklist"
+  },
+  "sections": {
+    "what_is_eid": {
+      "title": "What is Eid?",
+      "desc": "Understand the true meaning, significance, and history of the two Islamic festivals."
+    },
+    "sunnah": {
+      "title": "Sunnah of Eid",
+      "desc": "Learn the practices of the Prophet Muhammad (PBUH) recommended for the day of Eid."
+    },
+    "prayer": {
+      "title": "Eid Prayer Guide",
+      "desc": "A step-by-step guide to performing the Eid Salah, including the Takbeerat."
+    },
+    "sadaqah": {
+      "title": "Sadaqat-ul-Fitr",
+      "desc": "Important rules and guidelines for giving Zakat-ul-Fitr before the Eid prayer."
+    },
+    "dodont": {
+      "title": "Do's and Don'ts",
+      "desc": "What to do and what to avoid during Eid celebrations to keep them blessed."
+    }
+  },
+  "checklist": {
+    "title": "Your Eid Preparation Checklist",
+    "items": {
+      "task1": "Take Ghusl (Purification Bath)",
+      "task2": "Wear your best, clean clothes",
+      "task3": "Eat an odd number of dates (Eid-ul-Fitr)",
+      "task4": "Give Sadaqat-ul-Fitr before Salah",
+      "task5": "Recite Takbeerat-ul-Eid on the way to prayer",
+      "task6": "Pray Eid Salah in congregation",
+      "task7": "Listen to the Khutbah (Sermon)",
+      "task8": "Take a different route back home",
+      "task9": "Greet and wish others 'Eid Mubarak'"
+    },
+    "progress_label": "Checklist Progress:"
+  },
+  "home": {
+    "share_hub_badge": "Social Share Hub",
+    "share_hub_title": "Beautiful Eid Status Cards",
+    "share_hub_desc": "Download and share these beautiful reminders on your WhatsApp or Instagram status.",
+    "checklist_title": "Your Eid Preparation Checklist",
+    "checklist_desc": "Keep track of your progress as you prepare for the beautiful day of Eid. All your progress is saved automatically.",
+    "checklist_promo_title": "Stay Organized",
+    "checklist_promo_desc": "Complete all tasks to ensure a fulfilling and Sunnah-aligned Eid celebration."
+  },
+  "footer": {
+    "desc": "A complete guide to celebrating Eid in accordance with the Qur'an and Sunnah.",
+    "quick_links": "Quick Links",
+    "contact": "Contact",
+    "rights": "© 2026 Eid Guide. All rights reserved."
+  },
+  "pages": {
+    "about": {
+      "title": "What is Eid?",
+      "subtitle": "Understanding the Blessings of Islamic Festivals",
+      "content_title": "The Meaning of Eid",
+      "content_p1": "The word 'Eid' means a festival or a celebration that returns every year. In Islam, there are two major festivals: Eid-ul-Fitr and Eid-ul-Adha.",
+      "content_p2": "Eid is a time of joy, gratitude, and worship. It is a day when Muslims worldwide gather to thank Allah for His countless blessings and mercy.",
+      "fitr_title": "Eid-ul-Fitr",
+      "fitr_desc": "Celebrated at the end of Ramadan, marking the completion of the month of fasting. It is a day of giving thanks to Allah for the strength to fast.",
+      "adha_title": "Eid-ul-Adha",
+      "adha_desc": "The Festival of Sacrifice, celebrated during the month of Dhul-Hijjah to commemorate Prophet Ibrahim's willingness to sacrifice his son in obedience to Allah."
+    },
+    "sunnah": {
+      "title": "Sunnah of Eid",
+      "subtitle": "Practices of the Prophet (PBUH) on Eid Day",
+      "content_title": "Recommended Acts on Eid Day"
+    },
+    "prayer": {
+      "title": "Eid Prayer Guide",
+      "subtitle": "How to Perform the Eid Salah Step-by-Step",
+      "content_title": "Method of Eid Prayer"
+    },
+    "sadaqah": {
+      "title": "Sadaqat-ul-Fitr",
+      "subtitle": "Obligatory Charity of Fasting",
+      "content_title": "Rules of Sadaqat-ul-Fitr",
+      "content_p1": "Sadaqat-ul-Fitr (or Zakat-ul-Fitr) is an obligatory charity that every Muslim must pay before the Eid-ul-Fitr prayer."
+    },
+    "dodont": {
+      "title": "Do's and Don'ts",
+      "subtitle": "Maintaining Islamic Etiquette on Eid",
+      "do_title": "What You Should Do",
+      "dont_title": "What to Avoid",
+      "dos": {
+        "item1": "Show joy and happiness to others.",
+        "item2": "Dress neatly and cleanly, preferably in new or best clothes.",
+        "item3": "Visit family, relatives, and friends to strengthen ties of kinship.",
+        "item4": "Exchange gifts, especially with children.",
+        "item5": "Remember the poor and needy by giving charity and sharing food.",
+        "item6": "Forgive those who have wronged you and reconcile broken relationships.",
+        "item7": "Praise Allah abundantly throughout the day by reciting Takbeerat."
+      },
+      "donts": {
+        "item1": "Fasting on the day of Eid (it is historically forbidden).",
+        "item2": "Missing the compulsory daily prayers (Fajr, Dhuhr, Asr, Maghrib, Isha) due to celebrations.",
+        "item3": "Engaging in extravagance, excessive spending, or showing off in dress and food.",
+        "item4": "Mixing freely in a way that violates Islamic modesty guidelines.",
+        "item5": "Listening to impermissible music or engaging in un-Islamic entertainment.",
+        "item6": "Forgetting Allah's remembrance amidst the festivities.",
+        "item7": "Holding grudges and refusing to make peace with others."
+      }
+    }
+  },
+  "revamped_home": {
+    "hero_title": "The Ultimate 22-Step Eid Guide",
+    "hero_subtitle": "Master every detail of Eid celebration from the spirit of the day to the prayer method and Sadaqah rules.",
+    "start_journey": "Start Your 22-Step Journey",
+    "chapter1_title": "Chapter 1: The Spirit of Eid",
+    "chapter1_desc": "Explore the meaning, blessings, and initial Sunnahs that set the tone for this holy celebration.",
+    "chapter2_title": "Chapter 2: Performing Eid Prayer",
+    "chapter2_desc": "A complete guide to the Takbeerat, method, and congregation rules for the Eid Salah.",
+    "chapter3_title": "Chapter 3: Sadaqat-ul-Fitr Guide",
+    "chapter3_desc": "Learn about the calculation, eligibility, and importance of the charity given before Eid prayer.",
+    "chapter4_title": "Chapter 4: Traditions & Wisdom",
+    "chapter4_desc": "Discover the recommended acts, things to avoid, and the deeper wisdom behind this joyous day.",
+    "all_topics_btn": "Explore All 22 Topics"
+  },
+  "toc": {
+    "title": "Table of Contents",
+    "close": "Close Menu",
+    "ch1": "Spirit of Eid",
+    "ch2": "Eid Prayer Guide",
+    "ch3": "Sadaqat-ul-Fitr Guide",
+    "ch4": "Traditions & Wisdom"
+  },
+  "share_cards": {
+    "greeting_title": "Eid Mubarak!",
+    "greeting_content": "May Allah bless you and your family with boundless joy and prosperity on this holy occasion.",
+    "sunnah_title": "Sunnah of Eid",
+    "sunnah_content": "Ghusl, Good Clothes, Dates, Sadaqah, Takbeerat, and Eid Prayer.",
+    "takbeer_title": "Eid Takbeer",
+    "takbeer_content": "Allahu Akbar, Allahu Akbar, La ilaha illallah, Allahu Akbar, Allahu Akbar, wa lillahil Hamd",
+    "charity_title": "Sadaqat-ul-Fitr",
+    "charity_content": "Don't forget to give your Fitrana before the Eid prayer to help those in need."
+  },
+  "share_creator": {
+    "btn_open": "Create Your Card",
+    "modal_title": "Design Your Eid Card",
+    "label_title": "Card Title",
+    "label_message": "Your Message",
+    "label_bg_type": "Background Style",
+    "bg_solid": "Solid Color",
+    "bg_gradient": "Modern Gradient",
+    "label_color_1": "Color 1",
+    "label_color_2": "Color 2",
+    "label_text_mode": "Text Appearance",
+    "text_light": "Light (on dark bg)",
+    "text_dark": "Dark (on light bg)",
+    "label_icon": "Select Icon",
+    "btn_save": "Save Card",
+    "preview_text": "Live Preview"
+  },
+  "search": {
+    "title": "Search the Guide",
+    "placeholder": "Type keywords (e.g. Prayer, Charity)...",
+    "no_results": "No topics found matching your search.",
+    "results_count": "results found"
+  },
+  "achievements": {
+    "congrats": "Congratulations!",
+    "reached_end": "You've reached the end of the guide.",
+    "sunnah_companion": "SUNNAH COMPANION",
+    "completed_chapters": "You have successfully completed all 22 chapters of the Eid Guide.",
+    "unlock_cert_note": "Complete the Eid Checklist to unlock your official certificate!",
+    "claim_cert": "Claim Your Official Certificate",
+    "cert_loading": "Generating Certificate...",
+    "cert_saved": "Certificate Downloaded!",
+    "cert_content": {
+      "title": "Completion Certificate",
+      "subtitle": "OFFICIAL SUNNAH COMPANION",
+      "body": "This is to certify that you have successfully completed the 22-Step Ultimate Eid Guide and followed the Sunnah-aligned Eid preparation checklist.",
+      "date_label": "DATE",
+      "verify_label": "VERIFIED BY",
+      "verify_name": "Eid Guide Online",
+      "footer": "www.eid-guide.com | Empowering the Ummah with Knowledge"
+    }
+  },
+  "pages_content": {
+    "page0": {
+      "title": "The Night of Eid (Chand Raat) and Special Devotion",
+      "subtitle": "Chand Raat Action Plan",
+      "intro_message": "Chand Raat is actually the night to receive our “Eidi” (reward) from Allah. Throughout Ramadan we fasted, prayed Taraweeh, gave Zakat, gave charity, and recited the Qur’an. Now this is the night when we hope that Allah accepts all our acts of worship and grants us their reward. Therefore, instead of spending this night in heedlessness, we should increase our worship.",
+      "q1_question": "Question: Is there any special virtue in performing acts of worship on the night of the moon sighting (Chand Raat)?",
+      "q1_answer": "Answer: Yes, certainly. There is a reported special virtue for standing in worship on this night. Consider the following hadith.",
+      "hadith_intro": "It is narrated from Hazrat Abu Umamah (RA) that the Messenger of Allah ﷺ said:",
+      "hadith_arabic": "\"من قام ليلتي العيدين محتسباً لله لم يمت قلبه يوم تموت القلوب۔\"",
+      "hadith_translation": "Whoever stands in worship on the nights of the two Eids, seeking reward from Allah, his heart will not die on the day when hearts will die.",
+      "hadith_ref": "(Sunan Ibn Majah, Hadith No. 1782)",
+      "actions_title": "Recommended acts",
+      "actions": {
+        "item1": "Make dua for protection of faith.",
+        "item2": "Make sincere repentance.",
+        "item3": "Give charity.",
+        "item4": "Recite the Qur’an.",
+        "item5": "Engage in remembrance of Allah and send blessings upon Prophet Muhammad ﷺ.",
+        "item6": "Ask for love of the Prophet ﷺ.",
+        "item7": "Pray for Jannatul Firdaus.",
+        "item8": "Seek protection from punishment of the grave and Hellfire.",
+        "item9": "Make dua for the Ummah.",
+        "item10": "Ask forgiveness from parents and relatives."
+      },
+      "dua_title": "Dua for forgiveness:",
+      "dua_arabic": "Allahumma innaka ‘afuwwun tuhibbul ‘afwa fa’fu ‘anni.",
+      "note": "Note: Although this hadith is considered weak, scholars of hadith allow mentioning it in matters related to virtues of deeds. Many Muslims become negligent after the 27th night of Ramadan and waste valuable time. Therefore, special effort should also be made to worship on the night of Eid."
+    },
+    "page1": {
+      "title": "Explanation of Eid-ul-Fitr",
+      "p1": "In Islamic law, several days are designated for expressing happiness and gratitude. Among these days is the one that comes at the end of the blessed month of Ramadan, which is called Eid-ul-Fitr. On this day Muslims thank Allah Almighty for granting them the ability to worship during Ramadan.",
+      "p2": "On the day of Eid-ul-Fitr, Muslims perform the Eid prayer, give Sadaqat-ul-Fitr, and express joy. It is recommended to wear good clothes, apply perfume, and exchange greetings.",
+      "p3": "Muslims should thank Allah on this day and strive further in obedience to Him. They should also care for the poor and needy so that they can also share in the happiness.",
+      "p4": "Therefore, the virtues and rulings related to Eid-ul-Fitr are explained below."
+    },
+    "page2": {
+      "title": "Definition of Eid",
+      "subtitle": "Basic acts and meaning of Eid",
+      "list_items": {
+        "item1": "Definition of Eid",
+        "item2": "Celebrating the joy of Eid is a Sunnah",
+        "item3": "Giving Sadaqat-ul-Fitr",
+        "item4": "Performing the Eid prayer",
+        "item5": "A day of expressing happiness",
+        "item6": "Arranging food and celebration"
+      },
+      "q_title": "Definition of Eid",
+      "question": "Question: What is meant by Eid?",
+      "answer": "Answer: Eid means the return of happiness. It refers to a day when people express joy and gratitude for the blessings of Allah.",
+      "quran_text": "In the Qur'an it is mentioned:",
+      "quran_quote": "“And do not be excessive. Indeed, He does not like those who commit excess.”",
+      "hadith_text": "In a Hadith, the Prophet Muhammad ﷺ said:",
+      "hadith_quote": "“Every nation has its festival, and this is our festival.”"
+    },
+    "page3": {
+      "title": "Special Practices on Eid Day",
+      "p1": "Some acts of worship and special practices on the day of Eid",
+      "q1_title": "Acts of Worship",
+      "q1_question": "Question: Besides acts of worship, what other things should be observed on the day of Eid?",
+      "q1_answer": "Answer: Apart from worship, the following practices should be observed on the day of Eid.",
+      "hadith_intro": "Hazrat Abu Hurairah (RA) reported that the Messenger of Allah ﷺ said:",
+      "hadith_arabic": "\"من قام لیلتی العیدین محتسباً لم یمت قلبہ یوم تموت القلوب\"",
+      "hadith_translation": "“Whoever stands in worship on the nights of the two Eids seeking reward, his heart will not die on the day when hearts die.”",
+      "hadith_reference": "(Sunan Ibn Majah, Hadith 1782)",
+      "note": "Note: If possible, one should spend the night of Eid in worship to gain the special mercy of Allah.",
+      "q2_title": "Supplications on the day of Eid",
+      "q2_question": "Question: What should be recited on the day of Eid?",
+      "q2_answer": "Answer: On the day of Eid, one should recite Takbeerat and other remembrances (Azkar) and praise Allah."
+    },
+    "page4": {
+      "title": "Sunnah of Eid Morning",
+      "p1": "On the day of Eid, it is Sunnah to wake up early, take a bath, wear good clothes, and apply perfume. On Eid-ul-Fitr, it is recommended to eat something sweet (such as dates) before going for the Eid prayer.",
+      "p2": "The Prophet Muhammad ﷺ used to eat a few dates before going to the Eid prayer.",
+      "h1_intro": "A Hadith states:\n\nAnas bin Malik (RA) reported:",
+      "h1_quote": "“The Messenger of Allah ﷺ would not go out on the morning of Eid-ul-Fitr until he had eaten some dates.”",
+      "h1_ref": "(Sahih Bukhari, Hadith 964)",
+      "h2_intro": "Another narration from Abu Saeed Al-Khudri (RA) states:",
+      "h2_quote": "“The Messenger of Allah ﷺ would not perform any prayer before the Eid prayer.”",
+      "h2_ref": "(Sunan Ibn Majah, Hadith 1293)"
+    },
+    "page5": {
+      "title": "Fasting and Recommended Acts",
+      "p1": "Fasting on Eid",
+      "q1_question": "Question: Is it permissible to fast on the day of Eid?",
+      "q1_answer": "Answer: No. It is forbidden to fast on the days of Eid-ul-Fitr and Eid-ul-Adha.",
+      "hadith_intro": "Hazrat Abu Saeed Al-Khudri (RA) narrated:",
+      "hadith_arabic": "نَهَى النَّبِيُّ ﷺ عَنْ صَوْمِ يَوْمِ الْفِطْرِ وَيَوْمِ النَّحْرِ۔",
+      "hadith_quote": "“The Prophet ﷺ forbade fasting on the day of Eid-ul-Fitr and the day of Eid-ul-Adha.”",
+      "hadith_ref": "(Sahih Bukhari, Hadith 1991)",
+      "p2": "Sunnahs and Recommended Acts on Eid-ul-Fitr",
+      "q2_question": "Question: What Sunnahs and recommended acts should be observed on Eid-ul-Fitr?",
+      "q2_answer": "Answer: The following Sunnahs should be observed:",
+      "list_items": {
+        "item1": "Taking a bath (Ghusl)",
+        "item2": "Wearing good clothes",
+        "item3": "Applying perfume",
+        "item4": "Going for the Eid prayer",
+        "item5": "Reciting Takbeerat on the way"
+      }
+    },
+    "page6": {
+      "title": "Etiquettes of the Day of Eid",
+      "subtitle": "Etiquettes that should be observed",
+      "q_question": "Question: What etiquettes should be observed on the day of Eid?",
+      "q_answer": "Answer: The following etiquettes should be observed on the day of Eid:",
+      "list_items": {
+        "item1": "Wake up early in the morning",
+        "item2": "Take a bath (Ghusl)",
+        "item3": "Wear good clothes",
+        "item4": "Apply perfume",
+        "item5": "Go for the Eid prayer",
+        "item6": "Recite Takbeerat on the way"
+      },
+      "hadith_intro": "Hazrat Abdullah bin Umar (RA) narrated:",
+      "hadith_quote1": "The Messenger of Allah ﷺ used to go to the Eid prayer ground on foot on the day of Eid.",
+      "hadith_ref1": "(Sunan Ibn Majah)",
+      "hadith_quote2": "And he used to return by a different route.",
+      "hadith_ref2": "(Sahih Bukhari)"
+    },
+    "page7": {
+      "title": "Greetings and Happiness",
+      "p1": "Giving greetings on Eid",
+      "q1_question": "Question: Is it correct to greet each other on the day of Eid?",
+      "q1_answer": "Answer: Yes, it is permissible to greet each other on the day of Eid.",
+      "hadith_intro": "The Companions (RA) used to say to each other on Eid:",
+      "hadith_arabic": "تَقَبَّلَ اللّٰهُ مِنَّا وَمِنْكُمْ",
+      "hadith_quote": "“Taqabbalallahu minna wa minkum.”",
+      "hadith_translation": "Meaning: May Allah accept (good deeds) from us and from you.",
+      "scholar_note": "Islamic scholars have also considered exchanging greetings on Eid to be permissible.",
+      "p2": "Expressing happiness on Eid",
+      "p2_desc1": "On the day of Eid, one should express happiness and treat their family members kindly.",
+      "p2_desc2": "However, it should be ensured that the expression of happiness does not involve any sinful or inappropriate actions."
+    },
+    "page8": {
+      "title": "Ruling and Time of Eid Prayer",
+      "p1": "Ruling of Eid Prayer",
+      "q1_question": "Question: What is the ruling of the Eid prayer?",
+      "q1_answer": "Answer: The Eid prayer is obligatory (Wajib).",
+      "p1_desc": "According to the Hanafi scholars, the prayers of Eid-ul-Fitr and Eid-ul-Adha are obligatory.",
+      "hadith_intro": "Hazrat Abdullah ibn Abbas (RA) narrated that the Prophet ﷺ said:",
+      "hadith_quote": "“The prayer of Eid-ul-Fitr and Eid-ul-Adha is obligatory upon Muslims.”",
+      "hadith_desc": "The Eid prayer is an important act of worship in which Muslims gather together.",
+      "p2": "Time of Eid Prayer",
+      "q2_question": "Question: When does the time of Eid prayer begin?",
+      "q2_answer": "Answer: The time of Eid prayer begins after sunrise and continues until before noon (Zawal)."
+    },
+    "page9": {
+      "title": "Rak‘ahs and Takbeers",
+      "p1": "Rak‘ahs of the Eid Prayer",
+      "q1_question": "Question: How many Rak‘ahs are there in the Eid prayer?",
+      "q1_answer": "Answer: The Eid prayer consists of two Rak‘ahs.",
+      "p1_desc": "This prayer is performed in congregation, and it includes additional Takbeers.",
+      "hadith_intro": "Hazrat Abdullah ibn Umar (RA) narrated:",
+      "hadith_quote": "The Messenger of Allah ﷺ used to perform two Rak‘ahs for the prayers of Eid-ul-Fitr and Eid-ul-Adha.",
+      "hadith_ref": "(Sahih Bukhari)",
+      "p2": "Additional Takbeers in Eid Prayer",
+      "q2_question": "Question: How many Takbeers are there in the Eid prayer?",
+      "q2_answer": "Answer: There are six additional Takbeers in the Eid prayer.",
+      "p2_desc1": "Three Takbeers in the first Rak‘ah",
+      "p2_desc2": "Three Takbeers in the second Rak‘ah"
+    },
+    "page10": {
+      "title": "Method of Performing Eid Prayer",
+      "subtitle": "Method of Performing Eid Prayer",
+      "q_question": "Question: How is the Eid prayer performed?",
+      "q_answer": "Answer: The Eid prayer consists of two Rak‘ahs and is performed in congregation.",
+      "rakah1": "In the first Rak‘ah, the Imam says the opening Takbeer (Takbeer-e-Tahrima) and folds his hands, then recites the Sana. After that, three additional Takbeers are said, raising the hands with each Takbeer.",
+      "rakah1_cont": "Then the Imam recites Surah Al-Fatiha and another Surah, followed by Ruku and Sujood, completing the first Rak‘ah.",
+      "rakah2": "In the second Rak‘ah, after reciting Surah Al-Fatiha and another Surah, three additional Takbeers are said. Then Ruku is performed, and the prayer is completed."
+    },
+    "page11": {
+      "title": "Khutbah after Eid Prayer",
+      "p1": "Khutbah after the Eid Prayer",
+      "q1_question": "Question: Is a sermon delivered after the Eid prayer?",
+      "q1_answer": "Answer: Yes, a sermon (Khutbah) is delivered after the Eid prayer.",
+      "p1_desc": "The Prophet Muhammad ﷺ used to deliver a Khutbah after the Eid prayer and advise the people.",
+      "hadith_intro": "Hazrat Jabir ibn Abdullah (RA) narrated:",
+      "hadith_quote": "On the day of Eid, after performing the prayer, the Prophet ﷺ stood and delivered a sermon to the people.",
+      "hadith_ref": "(Sahih Bukhari)",
+      "p2_desc": "Listening to the Khutbah is Sunnah, and Muslims should listen to it quietly and attentively."
+    },
+    "page12": {
+      "title": "Sadaqat-ul-Fitr (Charity of Fitr)",
+      "p1": "Sadaqat-ul-Fitr (Charity of Fitr)",
+      "q1_question": "Question: What is Sadaqat-ul-Fitr?",
+      "q1_answer": "Answer: Sadaqat-ul-Fitr is a charity that becomes obligatory on every eligible Muslim (Sahib-e-Nisab) at the end of the month of Ramadan.",
+      "p1_desc": "The purpose of giving Sadaqat-ul-Fitr is that poor and needy people can also share in the happiness of Eid.",
+      "hadith_intro": "Hazrat Abdullah ibn Umar (RA) narrated:",
+      "hadith_quote": "The Prophet ﷺ made Sadaqat-ul-Fitr obligatory.",
+      "hadith_ref": "(Sahih Bukhari)",
+      "p2_desc": "Sadaqat-ul-Fitr should be given before the Eid prayer."
+    },
+    "page13": {
+      "title": "Who is obligated to give Sadaqat-ul-Fitr",
+      "p1": "Who is obligated to give Sadaqat-ul-Fitr",
+      "q1_question": "Question: On whom is Sadaqat-ul-Fitr obligatory?",
+      "q1_answer": "Answer: Sadaqat-ul-Fitr is obligatory on every Muslim who possesses Nisab (minimum required wealth).",
+      "p1_desc1": "This means a person who has wealth beyond their basic needs.",
+      "p1_desc2": "Every person who meets the Nisab requirement must give Sadaqat-ul-Fitr on their own behalf and on behalf of their minor children.",
+      "hadith_intro": "Hazrat Abdullah ibn Umar (RA) narrated that the Prophet ﷺ said:",
+      "hadith_quote": "“Sadaqat-ul-Fitr is obligatory upon every Muslim.”",
+      "hadith_ref": "(Sahih Bukhari)"
+    },
+    "page14": {
+      "title": "Amount of Sadaqat-ul-Fitr",
+      "p1": "Amount of Sadaqat-ul-Fitr",
+      "q1_question": "Question: What is the amount of Sadaqat-ul-Fitr?",
+      "q1_answer": "Answer: The amount of Sadaqat-ul-Fitr is one Saa'.",
+      "p1_desc1": "One Saa' is approximately equal to four Mud.",
+      "p1_desc2": "This amount can be given in the form of wheat, barley, dates, or raisins.",
+      "hadith_intro": "Hazrat Abdullah ibn Umar (RA) narrated:",
+      "hadith_quote": "The Messenger of Allah ﷺ prescribed one Saa' of dates or one Saa' of barley as Sadaqat-ul-Fitr.",
+      "hadith_ref": "(Sahih Bukhari)"
+    },
+    "page15": {
+      "title": "Who should receive Sadaqat-ul-Fitr",
+      "p1": "Who should receive Sadaqat-ul-Fitr",
+      "q1_question": "Question: To whom can Sadaqat-ul-Fitr be given?",
+      "q1_answer": "Answer: Sadaqat-ul-Fitr can be given to those who are eligible for Zakat.",
+      "p1_desc": "This includes the poor, the needy, and those in financial hardship.",
+      "quran_intro": "The Qur’an states:",
+      "quran_arabic": "إِنَّمَا الصَّدَقَاتُ لِلْفُقَرَاءِ وَالْمَسَاكِينِ",
+      "quran_translation": "“Indeed, charities are for the poor and the needy.”",
+      "quran_ref": "(Surah At-Tawbah)",
+      "p2_desc": "Therefore, Sadaqat-ul-Fitr should be given to people who are truly in need."
+    },
+    "page16": {
+      "title": "When should Sadaqat-ul-Fitr be given",
+      "p1": "When should Sadaqat-ul-Fitr be given",
+      "q1_question": "Question: When should Sadaqat-ul-Fitr be given?",
+      "q1_answer": "Answer: Sadaqat-ul-Fitr should be given before the Eid-ul-Fitr prayer.",
+      "p1_desc": "If someone gives Sadaqat-ul-Fitr after the Eid prayer, the charity will still count as a normal charity but it will not carry the reward of Sadaqat-ul-Fitr.",
+      "hadith_intro": "Hazrat Abdullah ibn Abbas (RA) narrated that the Prophet ﷺ said:",
+      "hadith_quote": "“Whoever gives Sadaqat-ul-Fitr before the Eid prayer, it is accepted as Fitr charity, and whoever gives it after the prayer, it is just a charity among other charities.”",
+      "hadith_ref": "(Sunan Abu Dawood)"
+    },
+    "page17": {
+      "title": "Benefits of Sadaqat-ul-Fitr",
+      "p1": "Benefits of Sadaqat-ul-Fitr",
+      "q1_question": "Question: What are the benefits of giving Sadaqat-ul-Fitr?",
+      "q1_answer": "Answer: There are several benefits of giving Sadaqat-ul-Fitr:",
+      "p1_desc1": "It purifies the fasting person from mistakes and shortcomings in their fasting.",
+      "p1_desc2": "It helps the poor and needy.",
+      "p1_desc3": "It allows poor people to share in the happiness of Eid.",
+      "hadith_intro": "Hazrat Abdullah ibn Abbas (RA) narrated that the Prophet ﷺ said:",
+      "hadith_quote": "“Sadaqat-ul-Fitr is a means of purification for the fasting person from idle talk and sins, and it is food for the needy.”",
+      "hadith_ref": "(Sunan Abu Dawood)"
+    },
+    "page18": {
+      "title": "Recommended Acts on the Day of Eid",
+      "p1": "Recommended Acts on the Day of Eid",
+      "q1_question": "Question: What acts are recommended on the day of Eid?",
+      "q1_answer": "Answer: The following acts are recommended on the day of Eid:",
+      "li1": "Taking a bath (Ghusl)",
+      "li2": "Using Miswak",
+      "li3": "Wearing good clothes",
+      "li4": "Applying perfume",
+      "li5": "Going to the Eid prayer ground on foot",
+      "li6": "Reciting Takbeerat on the way",
+      "hadith_intro": "Hazrat Ali (RA) narrated that:",
+      "hadith_quote": "Taking a bath on the day of Eid is recommended (Mustahab)."
+    },
+    "page19": {
+      "title": "Things to Avoid on the Day of Eid",
+      "p1": "Things to Avoid on the Day of Eid",
+      "q1_question": "Question: What things should be avoided on the day of Eid?",
+      "q1_answer": "Answer: The following things should be avoided on the day of Eid:",
+      "li1": "Wasting money unnecessarily",
+      "li2": "Committing sinful acts",
+      "li3": "Hurting others",
+      "li4": "Wasting time",
+      "p2_desc": "Muslims should celebrate Eid with happiness but must ensure that they do not perform any act that goes against Islamic teachings."
+    },
+    "page20": {
+      "title": "Wisdom Behind Eid",
+      "p1": "Wisdom Behind Eid",
+      "q1_question": "Question: What is the wisdom behind celebrating Eid?",
+      "q1_answer": "Answer: The wisdom behind celebrating Eid is that Muslims express joy for the blessings of Allah and show gratitude to Him.",
+      "p1_desc1": "After observing the fasts and performing worship during the month of Ramadan, Allah has granted Muslims the happiness of Eid.",
+      "p1_desc2": "Eid also serves as a means of creating love, brotherhood, and unity among Muslims.",
+      "p1_desc3": "On this day, Muslims meet one another, exchange greetings, and express happiness."
+    },
+    "page21": {
+      "title": "Summary",
+      "p1": "Summary",
+      "p1_desc1": "Eid-ul-Fitr is a day of joy and gratitude for Muslims. On this day, Muslims thank Allah for granting them the ability to observe the fasts and perform acts of worship during the blessed month of Ramadan.",
+      "p1_desc2": "On Eid, Muslims perform the Eid prayer, give Sadaqat-ul-Fitr, and express love and brotherhood among themselves.",
+      "p1_desc3": "Islam teaches us that we should also include the poor and needy in our happiness.",
+      "p1_desc4": "Therefore, on the day of Eid we should thank Allah, perform good deeds, and treat others kindly.",
+      "home_btn": "Return to Home Guide"
+    }
+  },
+  "quiz": {
+    "title": "Sunnah Knowledge Quiz",
+    "subtitle": "Test your knowledge to unlock your certificate",
+    "btn_start": "Start Quiz",
+    "btn_submit": "Submit Answers",
+    "btn_retry": "Try Again",
+    "status_pass": "Excellent! You've mastered the Sunnah of Eid.",
+    "status_fail": "Don't worry! Review the guide and try again.",
+    "questions": [
+      {
+        "q": "What is the virtue of standing in worship on the night of Eid (Chand Raat)?",
+        "options": ["A day of rest", "Heart will not die on the day hearts die", "Mandatory fast", "No special virtue"],
+        "correct": 1
+      },
+      {
+        "q": "What should one eat before going for Eid-ul-Fitr prayer?",
+        "options": ["Nothing", "Full meal", "Odd number of dates", "Sweets only"],
+        "correct": 2
+      },
+      {
+        "q": "How many additional Takbeers are in the Eid prayer?",
+        "options": ["None", "Three", "Six", "Twelve"],
+        "correct": 2
+      },
+      {
+        "q": "When is the best time to give Sadaqat-ul-Fitr?",
+        "options": ["After Eid Salah", "Before Eid Salah", "During Ramadan only", "Any time of year"],
+        "correct": 1
+      },
+      {
+        "q": "What is the Sunnah way to return from the Eid prayer ground?",
+        "options": ["Same route", "Different route", "Run back", "Wait for everyone"],
+        "correct": 1
+      },
+      {
+        "q": "Is fasting allowed on the day of Eid-ul-Fitr?",
+        "options": ["Yes, it's recommended", "No, it is forbidden (Haram)", "Only if you missed Ramadan fasts", "It's optional"],
+        "correct": 1
+      },
+      {
+        "q": "What is the Sunnah act for bathing on Eid day?",
+        "options": ["Ghusl (Bathing) is Sunnah", "It's just a normal bath", "Not required", "Bathing is mandatory only for Hajis"],
+        "correct": 0
+      },
+      {
+        "q": "What should one recite out loud while walking to the Eidgah?",
+        "options": ["Durood Shareef", "Takbeer (Allahu Akbar...)", "Kalima", "Surah Fatiha"],
+        "correct": 1
+      },
+      {
+        "q": "What is the common Sunnah greeting on Eid?",
+        "options": ["Happy Birthday", "Taqabbalallahu Minna wa Minkum", "Eid Mubarak only", "Salaam"],
+        "correct": 1
+      },
+      {
+        "q": "Who is obligated to pay Sadaqat-ul-Fitr?",
+        "options": ["Only the head of the house", "Every Muslim who has enough for one day", "Only rich people", "Only adults"],
+        "correct": 1
+      }
+    ]
+  },
+  "ai_assistant": {
+    "header": "Sunnah Assistant",
+    "placeholder": "Ask about Sunnah...",
+    "callout": "Ask about Sunnah!",
+    "initial_message": "Assalamu Alaikum! I am your Sunnah Assistant. How can I help you today?"
+  },
+  "shawwal_tracker": {
+    "title": "6 Days of Shawwal",
+    "desc": "Track your recommended Shawwal fasts to maintain the spiritual momentum of Ramadan.",
+    "day_label": "Day",
+    "completed_msg": "Mubarak! You've completed the 6 Sunnah fasts of Shawwal."
+  },
+  "fitrana_calc": {
+    "title": "Global Fitrana Calculator",
+    "desc": "Calculate Sadaqat-ul-Fitr in weight or currency for your region.",
+    "members_label": "Family Members",
+    "region_label": "Select Region",
+    "rate_label": "Food Type / Rate",
+    "calculate_btn": "Calculate Total",
+    "result_weight": "Total Food Weight",
+    "result_money": "Total Monetary Value",
+    "share_btn": "Share Calculation Result",
+    "note": "*Note: The standard religious amount is 2.5kg to 3kg of staple food. Monetary values are estimates based on local markets.",
+    "regions": {
+      "india": "India (INR)",
+      "pakistan": "Pakistan (PKR)",
+      "bangladesh": "Bangladesh (BDT)",
+      "middle_east": "Middle East (AED/SAR)",
+      "europe": "Europe (EUR)",
+      "uk": "United Kingdom (GBP)",
+      "usa": "USA (USD)",
+      "canada": "Canada (CAD)",
+      "others": "Other (Weight Only)"
+    }
+  },
+
+
+  "eid_dua": {
+    "title": "The Sunnah Greeting of Eid",
+    "subtitle": "A Beautiful Tradition of the Companions",
+    "arabic": "تَقَبَّلَ اللَّهُ مِنَّا وَمِنْكُمْ",
+    "transliteration": "Taqabbalallāhu minnā wa minkum",
+    "translation": "May Allah accept (good deeds) from us and from you.",
+    "context": "When the companions of the Prophet (PBUH) met on the day of Eid, they would say this to each other as a beautiful prayer of acceptance."
+  },
+
+  "takbeer_counter": {
+    "title": "Interactive Takbeer Counter",
+    "desc": "Recite the Eid Takbeerat and track your count.",
+    "takbeer_text": "Allahu Akbar, Allahu Akbar, La ilaha illallah, Wallahu Akbar, Allahu Akbar, wa lillahil hamd",
+    "count_label": "Recitations",
+    "reset_btn": "Reset Counter",
+    "share_btn": "Share Milestone"
+  },
+  "audio_player": {
+    "title": "Spiritual Audio",
+    "desc": "Listen to professional recitations with proper pronunciation.",
+    "track1_title": "Eid Takbeerat - Makkah",
+    "track1_desc": "Proper professional recitation from the Grand Mosque",
+    "track2_title": "Surah Al-Fatiha - Mishary",
+    "track2_desc": "Professional recitation by Sheikh Mishary Rashid Al-Afasy"
+  }
+}
+
+

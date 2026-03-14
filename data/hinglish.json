@@ -1,0 +1,609 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "Eid Ke Baare Mein",
+    "sunnah": "Sunnatein",
+    "prayer": "Namaz Ka Tareeqa",
+    "sadaqah": "Sadaqat-ul-Fitr",
+    "dodont": "Kya Karein Aur Kya Nahi",
+    "previous": "Pichla Page",
+    "next": "Agla Page"
+  },
+  "hero": {
+    "title": "Sunnat Ke Mutabiq Eid Manayein",
+    "subtitle": "Islami taleemat ki roshni mein Eid-ul-Fitr aur Eid-ul-Adha manane ki mukammal rehnumayi.",
+    "cta_start": "Shuru Karein",
+    "cta_checklist": "Eid Checklist"
+  },
+  "sections": {
+    "what_is_eid": {
+      "title": "Eid Kya Hai?",
+      "desc": "Islami tehwaaron ke haqeeqi maani, ahmiyat aur tareekh ko samjhein."
+    },
+    "sunnah": {
+      "title": "Eid Ki Sunnatein",
+      "desc": "Nabi Kareem ﷺ ke Eid ke din ke masnoon aamaal ke baare mein jaaniyen."
+    },
+    "prayer": {
+      "title": "Namaz-e-Eid Ka Tareeqa",
+      "desc": "Eid ki namaz ada karne ka tafseeli tareeqa, takbeerat ke saath."
+    },
+    "sadaqah": {
+      "title": "Sadaqat-ul-Fitr",
+      "desc": "Namaz-e-Eid se pehle Sadaqat-ul-Fitr ada karne ke aham ahkaam aur masail."
+    },
+    "dodont": {
+      "title": "Kya Karein aur Kya Nahi",
+      "desc": "Eid ki taqreebat ko baabarkat banane ke liye kya karna chahiye aur kin cheezon se bachna chahiye."
+    }
+  },
+  "checklist": {
+    "title": "Aapki Eid Ki Tayyari Ki Checklist",
+    "items": {
+      "task1": "Ghusl Karna",
+      "task2": "Apne behtareen aur saaf kapde pehenna",
+      "task3": "Taaq adad khajoorein khana (Eid-ul-Fitr ki subah)",
+      "task4": "Namaz-e-Eid se pehle Sadaqat-ul-Fitr ada karna",
+      "task5": "Namaz ke liye jaate hue raste mein Takbeerat-e-Eid padhna",
+      "task6": "Eid ki namaz ba-jamaat ada karna",
+      "task7": "Eid ka khutba sunna",
+      "task8": "Wapsi par doosra rasta ikhtiyar karna",
+      "task9": "Ek doosre ko Eid ki mubarakbad dena"
+    },
+    "progress_label": "Checklist Progress:"
+  },
+  "home": {
+    "share_hub_badge": "Social Share Hub",
+    "share_hub_title": "Beautiful Eid Status Cards",
+    "share_hub_desc": "Download aur share karein ye beautiful reminders apne WhatsApp ya Instagram status par.",
+    "checklist_title": "Aapki Eid Ki Tayyari Ki Checklist",
+    "checklist_desc": "Apni progress par nazar rakhein jaise jaise aap Eid ke mubaarak din ki tayyari karte hain. Aapki saari progress auto-save hoti hai.",
+    "checklist_promo_title": "Stay Organized",
+    "checklist_promo_desc": "Saare tasks poore karein taake aapka Eid ka din Sunnat ke mutabiq behtareen guzre."
+  },
+  "footer": {
+    "desc": "Quran-o-Sunnat ke mutabiq Eid manane ki mukammal rehnumayi.",
+    "quick_links": "Aham Links",
+    "contact": "Raabta Karein",
+    "rights": "© 2026 Eid Guide. Jumla huqooq mehfooz hain."
+  },
+  "pages": {
+    "about": {
+      "title": "Eid Kya Hai?",
+      "subtitle": "Islami Tehwaaron Ki Barkaat Ko Samajhna",
+      "content_title": "Eid Ka Matlab",
+      "content_p1": "Lafz 'Eid' ka matlab hai khushi ka woh din jo har saal laut kar aaye. Islam mein do badi Eidein hain: Eid-ul-Fitr aur Eid-ul-Adha.",
+      "content_p2": "Eid khushi, shukar guzari aur ibadat ka din hai. Yeh woh din hai jab duniya bhar ke musalman Allah ki be-shumar nematon aur rehmatoon ka shukar ada karne ke liye jama hote hain.",
+      "fitr_title": "Eid-ul-Fitr",
+      "fitr_desc": "Ramadan ke aakhir mein manayi jati hai, jo rozon ke mahine ke mukammal hone ki nishani hai. Yeh roze rakhne ki taufiq dene par Allah ka shukar ada karne ka din hai.",
+      "adha_title": "Eid-ul-Adha",
+      "adha_desc": "Qurbani ka tehwaar, jo Dhul-Hijjah ke mahine mein Hazrat Ibrahim (AS) ki Allah ki itaat mein apne bete ko qurban karne ki razamandi ki yaad mein manaya jata hai."
+    },
+    "sunnah": {
+      "title": "Eid Ki Sunnatein",
+      "subtitle": "Nabi Kareem ﷺ Ke Eid Ke Din Ke Aamaal",
+      "content_title": "Eid Ke Din Ke Masnoon Aamaal"
+    },
+    "prayer": {
+      "title": "Namaz-e-Eid Ka Tareeqa",
+      "subtitle": "Eid Ki Ba-Jamaat Namaz Ka Tafseeli Tareeqa",
+      "content_title": "Tareeqa-e-Namaz"
+    },
+    "sadaqah": {
+      "title": "Sadaqat-ul-Fitr",
+      "subtitle": "Roze Ka Wajib Sadaqah",
+      "content_title": "Sadaqat-ul-Fitr Ke Ahkaam",
+      "content_p1": "Sadaqat-ul-Fitr (ya Zakat-ul-Fitr) ek wajib sadaqah hai jo har musalman ko Eid-ul-Fitr ki namaz se pehle ada karna zaroori hai."
+    },
+    "dodont": {
+      "title": "Kya Karein Aur Kya Nahi",
+      "subtitle": "Eid Ke Din Islami Aadaab Ko Barqarar Rakhna",
+      "do_title": "Aapko Kya Karna Chahiye",
+      "dont_title": "Kin Cheezon Se Bachna Chahiye",
+      "dos": {
+        "item1": "Doosron ke saath khushi aur musarrat ka izhaar karein.",
+        "item2": "Saaf suthre kapde pehnein, tarjeehan naye ya apne behtareen kapde.",
+        "item3": "Rishtedaaron aur doston se milein taake rishte mazboot hon.",
+        "item4": "Tohfe dein aur lein, khaas taur par bachon ko.",
+        "item5": "Ghareebon aur maskeenon ko yaad rakhein aur un mein khana aur sadaqah taqseem karein.",
+        "item6": "Un logon ko maaf kar dein jinhone aap ke saath zyadti ki ho aur toote hue rishtey jodein.",
+        "item7": "Saara din Takbeerat padh kar kasrat se Allah ki hamd-o-sana bayaan karein."
+      },
+      "donts": {
+        "item1": "Eid ke din roza rakhna (yeh shar'an mana hai).",
+        "item2": "Taqreebat ki wajah se farz namazein (Fajr, Dhuhr, Asr, Maghrib, Isha) chhod dena.",
+        "item3": "Libas aur khane peene mein fuzool kharchi, hadd se tajawuz ya dikhawa karna.",
+        "item4": "Aise aazadana ikhtilaat se bachna jo Islami haya ke usoolon ke khilaf ho.",
+        "item5": "Najaiz mauseeqi sunna ya ghair Islami tafreehat mein mashghool hona.",
+        "item6": "Jashn ke dauran Allah ke zikr se ghafil ho jana.",
+        "item7": "Dil mein bughz rakhna aur doosron se sulah karne se inkaar karna."
+      }
+    }
+  },
+  "revamped_home": {
+    "hero_title": "The Ultimate 22-Step Eid Guide",
+    "hero_subtitle": "Master har detail Eid celebration ka, spirit se lekar namaz ke tareeqe aur Sadaqah rules tak.",
+    "start_journey": "Apna 22-Step Safar Shuru Karein",
+    "chapter1_title": "Chapter 1: Eid ki Rooh",
+    "chapter1_desc": "Eid ke maani, fazail, aur un sunnaton ko samjhein jo Eid ki ruhaniyat ko zahir karti hain.",
+    "chapter2_title": "Chapter 2: Namaz-e-Eid ki Adayegi",
+    "chapter2_desc": "Ba-jamaat Namaz-e-Eid ke ahkaam, tareeqa aur adayegi par mukammal guide.",
+    "chapter3_title": "Chapter 3: Sadaqa-e-Fitr Guide",
+    "chapter3_desc": "Namaz-e-Eid se pehle diye jane wale sadaqe ki miqdar, eligibility aur ehmiyat ke bare mein janein.",
+    "chapter4_title": "Chapter 4: Eid ki Riwayat aur Hikmat",
+    "chapter4_desc": "Eid ke din ke mustahab aamal, mamnu umoor aur is mubarak din ki hikmat.",
+    "all_topics_btn": "Saare 22 Topics Dekhein"
+  },
+  "toc": {
+    "title": "Topic Index",
+    "close": "Menu Band Karein",
+    "ch1": "Eid ki Rooh",
+    "ch2": "Namaz Guide",
+    "ch3": "Sadaqah Guide",
+    "ch4": "Riwayat aur Hikmat"
+  },
+  "share_cards": {
+    "greeting_title": "Eid Mubarak!",
+    "greeting_content": "Allah Ta'ala aapki aur aapke family ki har khushi ko qubool farmaye.",
+    "sunnah_title": "Eid ki Sunnatein",
+    "sunnah_content": "Ghusl, Ache Kapde, Khajoor, Sadaqah, Takbeerat aur Eid ki Namaz.",
+    "takbeer_title": "Eid ki Takbeer",
+    "takbeer_content": "Allahu Akbar, Allahu Akbar, La ilaha illallah, Allahu Akbar, Allahu Akbar, walillahil hamd.",
+    "charity_title": "Sadaqat-ul-Fitr",
+    "charity_content": "Zaroorat mando ki madad ke liye Eid ki Namaz se pehle apna Fitrana dena na bhoolein."
+  },
+  "share_creator": {
+    "btn_open": "Apna Card Banayein",
+    "modal_title": "Apna Eid Card Design Karein",
+    "label_title": "Card Ka Title",
+    "label_message": "Aapka Message",
+    "label_bg_type": "Background Style",
+    "bg_solid": "Solid Color",
+    "bg_gradient": "Modern Gradient",
+    "label_color_1": "Pehla Color",
+    "label_color_2": "Doosra Color",
+    "label_text_mode": "Text Style",
+    "text_light": "Light (Dark BG par)",
+    "text_dark": "Dark (Light BG par)",
+    "label_icon": "Icon Select Karein",
+    "btn_save": "Card Tayyar Karein",
+    "preview_text": "Live Preview"
+  },
+  "search": {
+    "title": "Search Guide",
+    "placeholder": "Keywords likhein (e.g. Namaz, Charity)...",
+    "no_results": "Search ke mutabiq koi topic nahi mila.",
+    "results_count": "results mile"
+  },
+  "achievements": {
+    "congrats": "Mubarak ho!",
+    "reached_end": "Aap guide ke ikhtitam par pahunch gaye hain.",
+    "sunnah_companion": "SUNNAH COMPANION",
+    "completed_chapters": "Aapne Eid Guide ke saare 22 chapters kamyabi se mukammal kar liye hain.",
+    "unlock_cert_note": "Apna official certificate unlock karne ke liye Eid ki checklist poori karein!",
+    "claim_cert": "Claim Your Official Certificate",
+    "cert_loading": "Certificate banaya ja raha hai...",
+    "cert_saved": "Certificate Download ho gaya!",
+    "cert_content": {
+      "title": "Completion Certificate",
+      "subtitle": "OFFICIAL SUNNAH COMPANION",
+      "body": "Ye is baat ki tasdeeq hai ke aapne 22-Step Ultimate Eid Guide kamyabi se poora kiya hai aur Sunnat-ke-mutabiq Eid preparation checklist par amal kiya hai.",
+      "date_label": "DATE",
+      "verify_label": "VERIFIED BY",
+      "verify_name": "Eid Guide Online",
+      "footer": "www.eid-guide.com | Empowering the Ummah with Knowledge"
+    }
+  },
+  "pages_content": {
+    "page0": {
+      "title": "Eid ki Raat (yaani Chand Raat) aur Khusoosi Ihtimam",
+      "subtitle": "Chand Raat Action Plan",
+      "intro_message": "Chand raat asal mein hamari eidi lene ki raat hai. Pura Ramadan humne roza rakha, tarawih padhi, zakat di, sadqa kiya aur Quran ki tilawat ki. Ab yeh woh raat hai jab hum Allah Ta'ala se umeed rakhte hain ke woh hamari tamam ibadat qubool farmaye aur humein iska ajar ata kare. Is liye is raat ko ghaflat mein zaya karne ke bajaye zyada se zyada ibadat karein.",
+      "q1_question": "Sawal: Chand raat mein ibadat ikhtiyar karne ki koi khusoosi fazilat hai?",
+      "q1_answer": "Jawab: Ji yaqeenan hai. Chunanche is raat mein qiyam karne ki khusoosi fazilat manqool hai. Darj zail hadees mulahiza karein.",
+      "hadith_intro": "Hazrat Abu Umamah (RA) se marwi hai ke Rasool Allah ﷺ ne irshad farmaya:",
+      "hadith_arabic": "\"Man qaama laylatayil ‘eedain muhtasiban lillah lam yamut qalbuhu yawma tamootul quloob.\"",
+      "hadith_translation": "Jis ne Allah Ta'ala ki raza ki khatir apne nafs ka ihtisab karte hue Eid ki raaton mein qiyam kiya, to jis din (Qayamat ke din) khauf o dahshat ki wajah se logon ke dil murda ho jayenge, us ka dil murda nahi hoga.",
+      "hadith_ref": "(Al-Sunan Ibn Majah, Hadith No. 1782)",
+      "actions_title": "Is raat ke aamaal",
+      "actions": {
+        "item1": "Imaan ki hifazat ke liye dua karein.",
+        "item2": "Sachi tauba karein.",
+        "item3": "Sadqa dein.",
+        "item4": "Quran ki tilawat karein.",
+        "item5": "Zikrullah aur durood sharif padhein.",
+        "item6": "Ishq-e-Rasool ﷺ ki dua karein.",
+        "item7": "Jannatul Firdaus ki dua karein.",
+        "item8": "Azab-e-qabr aur jahannum se bachne ki dua karein.",
+        "item9": "Ummate Muhammad ﷺ ke liye dua karein.",
+        "item10": "Walidain aur rishtedaron se maafi maangein."
+      },
+      "dua_title": "Dua:",
+      "dua_arabic": "Allahumma innaka afuwwun tuhibbul afwa fa'fu anni.",
+      "note": "Note: Agarche yeh zaeef hadees hai, lekin muhaddiseen ke nazdeek fazail ke bab mein iska zikr kiya ja sakta hai. Musalmano ki aksariyat 27vi shab ke baad bilkul ghaflat ikhtiyar kar leti hai aur qeemti auqat zaya ho jate hain, is liye Eid ki raat ko bhi khusoosi tor par ibadat ka ehtimam karna chahiye."
+    },
+    "page1": {
+      "title": "Eid ul Fitr ka Bayan",
+      "p1": "Shariat ki janib se kai ahkaam aur izhar-e-masarrat aur izhar-e-shukar ke liye kai ayaam muqarrar hain. Inhi ayaam mein ek din Ramzan ul Mubarak ke ikhtitam par aata hai jise Eid ul Fitr kaha jata hai. Musalman is din Allah Ta'ala ka shukar ada karte hain ke us ne Ramzan ul Mubarak ki ibadat ki taufiq ata farmayi.",
+      "p2": "Eid ul Fitr ke din Musalman namaz-e-eid ada karte hain, sadaqa-e-fitr dete hain aur khushi ka izhar karte hain. Is din ache kapde pehenna, khushboo lagana aur aapas mein mubarakbad دینا mustahab hai.",
+      "p3": "Eid ke din Musalmano ko chahiye ke woh Allah Ta'ala ka shukar ada karein aur uski ita'at mein mazeed koshish karein. Is din ghareebon aur mohtaajon ka khayal rakhna chahiye taake woh bhi khushiyon mein shareek ho saken.",
+      "p4": "Chunanche neeche Eid ul Fitr ke fazail aur ahkaam bayan kiye jate hain."
+    },
+    "page2": {
+      "title": "Eid ki Tareef",
+      "subtitle": "Eid ke bunyadi aamaal aur maani",
+      "list_items": {
+        "item1": "Eid ki tareef",
+        "item2": "Eid ki khushi manana sunnat hai",
+        "item3": "Sadaqa-e-Fitr ada karna",
+        "item4": "Namaz-e-Eid ada karna",
+        "item5": "Khushi ke izhar ka din hona",
+        "item6": "Khane peene ka ehtimam karna"
+      },
+      "q_title": "Eid ki Tareef",
+      "question": "Sawal: Eid kise kehte hain?",
+      "answer": "Jawab: Eid khushi ke dobara laut aane ko kehte hain. Eid us din ko kaha jata hai jis din Allah Ta'ala ki ne'maton par khushi ka izhar kiya jaye aur uska shukar ada kiya jaye.",
+      "quran_text": "Quran Majeed mein aata hai:",
+      "quran_quote": "وَلَا تُسْرِفُوا إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ",
+      "hadith_text": "Aur hadees shareef mein aata hai ke Rasulullah ﷺ ne farmaya:",
+      "hadith_quote": "“Har qaum ki ek eid hoti hai aur ye hamari eid hai.”"
+    },
+    "page3": {
+      "title": "Eid ke Din Khusoosi Ehtimam",
+      "p1": "Eid ke din (baaz ibadat) aur khusoosi ehtimam",
+      "q1_title": "Ibadat ke ilawa aamaal",
+      "q1_question": "Sawal: Ibadat ke ilawa Eid ke din aur kin umoor ka ehtimam karna chahiye?",
+      "q1_answer": "Jawab: Eid ke din ibadat ke ilawa neeche diye gaye umoor ka ehtimam karna chahiye.",
+      "hadith_intro": "Hazrat Abu Hurairah (RA) se riwayat hai ke Rasulullah ﷺ ne farmaya:",
+      "hadith_arabic": "\"من قام لیلتی العیدین محتسباً لم یمت قلبہ یوم تموت القلوب\"",
+      "hadith_translation": "“Jo shakhs Eid-ul-Fitr aur Eid-ul-Adha ki raat ibadat kare sawab ki niyyat se, uska dil us din nahi marega jis din logon ke dil murda ho jayenge.”",
+      "hadith_reference": "(Sunan Ibn Majah, Hadith 1782)",
+      "note": "Note: Agar mumkin ho to Eid ki raat ibadat mein guzarna chahiye taake Allah Ta’ala ki khaas rehmat hasil ho sake.",
+      "q2_title": "Eid ke Din ke Wazaaif",
+      "q2_question": "Sawal: Eid ke din kya padhna chahiye?",
+      "q2_answer": "Jawab: Eid ke din takbeerat aur azkar ka ehtimam karna chahiye aur Allah Ta’ala ki hamd o sana bayan karni chahiye."
+    },
+    "page4": {
+      "title": "Eid ki Subah ki Sunnatein",
+      "p1": "Eid ke din subah jaldi uthna, ghusl karna, ache kapde pehenna aur khushboo lagana sunnat hai. Eid-ul-Fitr ke din namaz ke liye jaane se pehle kuch meetha khana mustahab hai, jaise khajoor waghera.",
+      "p2": "Rasulullah ﷺ Eid-ul-Fitr ke din namaz ke liye jaane se pehle kuch khajooren khaya karte the.",
+      "h1_intro": "Hadees mein aata hai:\n\nHazrat Anas bin Malik (RA) farmate hain:",
+      "h1_quote": "“Rasulullah ﷺ Eid-ul-Fitr ke din namaz ke liye us waqt tak nahi jaate the jab tak kuch khajooren na kha lete.”",
+      "h1_ref": "(Sahih Bukhari, Hadith 964)",
+      "h2_intro": "Hazrat Abu Saeed Khudri (RA) farmate hain:",
+      "h2_quote": "“Rasulullah ﷺ Eid ki namaz se pehle koi namaz nahi padhte the.”",
+      "h2_ref": "(Sunan Ibn Majah, Hadith 1293)"
+    },
+    "page5": {
+      "title": "Eid ka Roza aur Mustahabbat",
+      "p1": "Eid ka Roza",
+      "q1_question": "Sawal: Kya Eid ke din roza rakhna jaiz hai?",
+      "q1_answer": "Jawab: Nahi, Eid-ul-Fitr aur Eid-ul-Adha ke din roza rakhna mana hai.",
+      "hadith_intro": "Hazrat Abu Saeed Khudri (RA) se riwayat hai:",
+      "hadith_arabic": "نَهَى النَّبِيُّ ﷺ عَنْ صَوْمِ يَوْمِ الْفِطْرِ وَيَوْمِ النَّحْرِ۔",
+      "hadith_quote": "“Nabi Kareem ﷺ ne Eid-ul-Fitr aur Eid-ul-Adha ke din roza rakhne se mana farmaya.”",
+      "hadith_ref": "(Sahih Bukhari, Hadith 1991)",
+      "p2": "Eid-ul-Fitr ki Sunnatein aur Mustahabbat",
+      "q2_question": "Sawal: Eid-ul-Fitr ke din kaun kaun si sunnatein aur mustahabbat hain?",
+      "q2_answer": "Jawab: Eid-ul-Fitr ke din neeche di gayi sunnaton ka khayal rakhna chahiye:",
+      "list_items": {
+        "item1": "Ghusl karna",
+        "item2": "Ache kapde pehenna",
+        "item3": "Khushboo lagana",
+        "item4": "Namaz-e-Eid ke liye jana",
+        "item5": "Raaste mein takbeerat padhna"
+      }
+    },
+    "page6": {
+      "title": "Eid ke din ke Adaab",
+      "subtitle": "Adaab jinka khayal rakhna chahiye",
+      "q_question": "Sawal: Eid ke din kaun se adaab ka khayal rakhna chahiye?",
+      "q_answer": "Jawab: Eid ke din neeche diye gaye adaab ka khayal rakhna chahiye:",
+      "list_items": {
+        "item1": "Subah jaldi uthna",
+        "item2": "Ghusl karna",
+        "item3": "Ache kapde pehenna",
+        "item4": "Khushboo lagana",
+        "item5": "Namaz-e-Eid ke liye jana",
+        "item6": "Raaste mein takbeerat padhna"
+      },
+      "hadith_intro": "Hazrat Abdullah bin Umar (RA) se riwayat hai:",
+      "hadith_quote1": "Rasulullah ﷺ Eid ke din Eidgah ki taraf paidal jaya karte the.",
+      "hadith_ref1": "(Sunan Ibn Majah)",
+      "hadith_quote2": "Aur wapas aate waqt doosra rasta ikhtiyar farmate the.",
+      "hadith_ref2": "(Sahih Bukhari)"
+    },
+    "page7": {
+      "title": "Eid ke din Mubarakbad dena",
+      "p1": "Eid ke din Mubarakbad dena",
+      "q1_question": "Sawal: Kya Eid ke din ek doosre ko mubarakbad dena theek hai?",
+      "q1_answer": "Jawab: Ji haan, Eid ke din ek doosre ko mubarakbad dena jaiz hai.",
+      "hadith_intro": "Sahaba-e-Kiram (RA) Eid ke din ek doosre ko ye alfaaz kehte the:",
+      "hadith_arabic": "تَقَبَّلَ اللّٰهُ مِنَّا وَمِنْكُمْ",
+      "hadith_quote": "“Taqabbalallahu minna wa minkum”",
+      "hadith_translation": "Yani Allah Ta’ala hum se aur aap se (neik aamal) qabool farmaye.",
+      "scholar_note": "Ulama-e-Kiram ne bhi Eid ke din mubarakbad dene ko jaiz qarar diya hai.",
+      "p2": "Eid ke din khushi ka izhar",
+      "p2_desc1": "Eid ke din khushi ka izhar karna chahiye aur apne ghar walon ke saath acha sulook karna chahiye.",
+      "p2_desc2": "Lekin is baat ka khayal rakhna chahiye ke khushi ke izhar mein koi ghalat ya gunah ka kaam na ho."
+    },
+    "page8": {
+      "title": "Namaz-e-Eid ka hukm aur waqt",
+      "p1": "Namaz-e-Eid ka hukm",
+      "q1_question": "Sawal: Namaz-e-Eid ka kya hukm hai?",
+      "q1_answer": "Jawab: Namaz-e-Eid wajib hai.",
+      "p1_desc": "Fuqaha-e-Ahnaf ke nazdeek Eid-ul-Fitr aur Eid-ul-Adha ki namaz wajib hai.",
+      "hadith_intro": "Hazrat Abdullah bin Abbas (RA) se riwayat hai ke Rasulullah ﷺ ne farmaya:",
+      "hadith_quote": "“Namaz-e-Eid Musalmano par wajib hai.”",
+      "hadith_desc": "Namaz-e-Eid ki adaigi Musalmano ke liye ek aham ibadat hai jisme Musalmano ka ijtema hota hai."
+    },
+    "page9": {
+      "title": "Namaz-e-Eid ki Rakaatein aur Takbeerein",
+      "p1": "Namaz-e-Eid ki Rakaatein",
+      "q1_question": "Sawal: Namaz-e-Eid mein kitni rakaatein hoti hain?",
+      "q1_answer": "Jawab: Namaz-e-Eid do rakat hoti hai.",
+      "p1_desc": "Ye namaz jamaat ke saath ada ki jati hai aur is mein izafi takbeerein bhi kahi jati hain.",
+      "hadith_intro": "Hazrat Abdullah bin Umar (RA) se riwayat hai:",
+      "hadith_quote": "Rasulullah ﷺ Eid-ul-Fitr aur Eid-ul-Adha ki namaz do rakat padha karte the.",
+      "hadith_ref": "(Sahih Bukhari)",
+      "p2": "Namaz-e-Eid mein izafi Takbeerein",
+      "q2_question": "Sawal: Namaz-e-Eid mein kitni takbeerein hoti hain?",
+      "q2_answer": "Jawab: Namaz-e-Eid mein 6 zyada takbeerein hoti hain.",
+      "p2_desc1": "Pehli rakat mein 3 takbeerein",
+      "p2_desc2": "Aur doosri rakat mein bhi 3 takbeerein kahi jati hain"
+    },
+    "page10": {
+      "title": "Namaz-e-Eid padhne ka tareeqa",
+      "subtitle": "Namaz-e-Eid padhne ka tareeqa",
+      "q_question": "Sawal: Namaz-e-Eid kis tarah ada ki jati hai?",
+      "q_answer": "Jawab: Namaz-e-Eid do rakat hoti hai aur ye jamaat ke saath ada ki jati hai.",
+      "rakah1": "Pehli rakat mein Imam takbeer-e-tahrima keh kar haath baandh leta hai aur sana padhta hai. Uske baad 3 izafi takbeerein kahi jati hain. Har takbeer ke saath haath uthaye jate hain.",
+      "rakah1_cont": "Phir Imam Surah Fatiha aur koi doosri surah padhta hai aur ruku aur sajda kar ke pehli rakat mukammal karta hai.",
+      "rakah2": "Doosri rakat mein Surah Fatiha aur koi surah padhne ke baad 3 izafi takbeerein kahi jati hain, phir ruku kiya jata hai aur namaz mukammal ki jati hai."
+    },
+    "page11": {
+      "title": "Namaz-e-Eid ke baad Khutba",
+      "p1": "Namaz-e-Eid ke baad Khutba",
+      "q1_question": "Sawal: Kya namaz-e-Eid ke baad khutba diya jata hai?",
+      "q1_answer": "Jawab: Ji haan, namaz-e-Eid ke baad khutba diya jata hai.",
+      "p1_desc": "Rasulullah ﷺ Eid ki namaz ke baad khutba irshad farmate the aur logon ko naseehat karte the.",
+      "hadith_intro": "Hazrat Jabir bin Abdullah (RA) se riwayat hai:",
+      "hadith_quote": "Rasulullah ﷺ Eid ke din namaz padhne ke baad khade hue aur logon ko khutba diya.",
+      "hadith_ref": "(Sahih Bukhari)",
+      "p2_desc": "Khutba sunna sunnat hai aur Musalmano ko chahiye ke woh khutba khamoshi se sunein."
+    },
+    "page12": {
+      "title": "Sadaqa-e-Fitr",
+      "p1": "Sadaqa-e-Fitr",
+      "q1_question": "Sawal: Sadaqa-e-Fitr kya hai?",
+      "q1_answer": "Jawab: Sadaqa-e-Fitr wo sadaqa hai jo Ramzan-ul-Mubarak ke ikhtitam par har sahib-e-nisab Musalman par wajib hota hai.",
+      "p1_desc": "Sadaqa-e-Fitr ada karne ka maqsad ye hai ke ghareeb aur mohtaj log bhi Eid ki khushiyon mein shareek ho saken.",
+      "hadith_intro": "Hazrat Abdullah bin Umar (RA) se riwayat hai:",
+      "hadith_quote": "Rasulullah ﷺ ne Sadaqa-e-Fitr farz qarar diya.",
+      "hadith_ref": "(Sahih Bukhari)",
+      "p2_desc": "Sadaqa-e-Fitr Eid ki namaz se pehle ada karna chahiye."
+    },
+    "page13": {
+      "title": "Sadaqa-e-Fitr kis par wajib hai",
+      "p1": "Sadaqa-e-Fitr kis par wajib hai",
+      "q1_question": "Sawal: Sadaqa-e-Fitr kin logon par wajib hai?",
+      "q1_answer": "Jawab: Sadaqa-e-Fitr har us Musalman par wajib hai jo sahib-e-nisab ho.",
+      "p1_desc1": "Yani jis ke paas apni zarooriyat se zyada maal ho.",
+      "p1_desc2": "Har sahib-e-nisab shakhs par zaroori hai ke woh apni taraf se aur apne nabaligh bachon ki taraf se bhi Sadaqa-e-Fitr ada kare.",
+      "hadith_intro": "Hazrat Abdullah bin Umar (RA) se riwayat hai ke Rasulullah ﷺ ne farmaya:",
+      "hadith_quote": "“Sadaqa-e-Fitr har Musalman par farz hai.”",
+      "hadith_ref": "(Sahih Bukhari)"
+    },
+    "page14": {
+      "title": "Sadaqa-e-Fitr ki Miqdaar",
+      "p1": "Sadaqa-e-Fitr ki Miqdaar",
+      "q1_question": "Sawal: Sadaqa-e-Fitr ki miqdaar kya hai?",
+      "q1_answer": "Jawab: Sadaqa-e-Fitr ki miqdaar ek Saa' hai.",
+      "p1_desc1": "Ek Saa' taqreeban chaar mud ke barabar hota hai.",
+      "p1_desc2": "Ye miqdaar gandum, jo, khajoor ya kishmish waghera mein se kisi cheez ki di ja sakti hai.",
+      "hadith_intro": "Hazrat Abdullah bin Umar (RA) se riwayat hai:",
+      "hadith_quote": "Rasulullah ﷺ ne Sadaqa-e-Fitr ek Saa' khajoor ya ek Saa' jo muqarrar farmaya.",
+      "hadith_ref": "(Sahih Bukhari)"
+    },
+    "page15": {
+      "title": "Sadaqa-e-Fitr kis ko diya jaye",
+      "p1": "Sadaqa-e-Fitr kis ko diya jaye",
+      "q1_question": "Sawal: Sadaqa-e-Fitr kin logon ko diya ja sakta hai?",
+      "q1_answer": "Jawab: Sadaqa-e-Fitr un logon ko diya ja sakta hai jo zakat ke mustahiq hon.",
+      "p1_desc": "Yani ghareeb, miskeen aur mohtaj logon ko Sadaqa-e-Fitr diya ja sakta hai.",
+      "quran_intro": "Quran Majeed mein farmaya gaya hai:",
+      "quran_arabic": "إِنَّمَا الصَّدَقَاتُ لِلْفُقَرَاءِ وَالْمَسَاكِينِ",
+      "quran_translation": "“Innamas sadaqaatu lil fuqara wal masakeen.” Yani sadaqat faqeeron aur miskeenon ke liye hain.",
+      "quran_ref": "(Surah At-Taubah)",
+      "p2_desc": "Is liye Sadaqa-e-Fitr un logon ko dena chahiye jo waqai zarooratmand hon."
+    },
+    "page16": {
+      "title": "Sadaqa-e-Fitr kab ada karna chahiye",
+      "p1": "Sadaqa-e-Fitr kab ada karna chahiye",
+      "q1_question": "Sawal: Sadaqa-e-Fitr kab ada karna chahiye?",
+      "q1_answer": "Jawab: Sadaqa-e-Fitr Eid-ul-Fitr ki namaz se pehle ada karna chahiye.",
+      "p1_desc": "Agar kisi ne Eid ki namaz ke baad Sadaqa-e-Fitr ada kiya to sadaqa to ada ho jayega lekin Sadaqa-e-Fitr ka asal sawab hasil nahi hoga.",
+      "hadith_intro": "Hazrat Abdullah bin Abbas (RA) se riwayat hai ke Rasulullah ﷺ ne farmaya:",
+      "hadith_quote": "“Jo shakhs namaz-e-Eid se pehle Sadaqa-e-Fitr ada kare to woh maqbool sadaqa hai aur jo namaz ke baad ada kare to woh aam sadaqat mein se ek sadaqa hai.”",
+      "hadith_ref": "(Sunan Abu Dawood)"
+    },
+    "page17": {
+      "title": "Sadaqa-e-Fitr ke Fawaid",
+      "p1": "Sadaqa-e-Fitr ke Fawaid",
+      "q1_question": "Sawal: Sadaqa-e-Fitr dene ke kya fawaid hain?",
+      "q1_answer": "Jawab: Sadaqa-e-Fitr dene ke kai fawaid hain:",
+      "p1_desc1": "Ye rozon ki kotahiyon aur ghaltiyon ka kaffara banta hai.",
+      "p1_desc2": "Is se ghareeb aur mohtaj logon ki madad hoti hai.",
+      "p1_desc3": "Is ke zariye ghareeb log bhi Eid ki khushiyon mein shareek ho sakte hain.",
+      "hadith_intro": "Hazrat Abdullah bin Abbas (RA) se riwayat hai ke Rasulullah ﷺ ne farmaya:",
+      "hadith_quote": "“Sadaqa-e-Fitr rozedaar ko behooda baaton aur gunahon se paak karne ke liye hai aur miskeenon ke liye khane ka zariya hai.”",
+      "hadith_ref": "(Sunan Abu Dawood)"
+    },
+    "page18": {
+      "title": "Eid ke din Mustahab Aamal",
+      "p1": "Eid ke din Mustahab Aamal",
+      "q1_question": "Sawal: Eid ke din kaun se aamal mustahab hain?",
+      "q1_answer": "Jawab: Eid ke din neeche diye gaye aamal mustahab hain:",
+      "li1": "Ghusl karna",
+      "li2": "Miswak karna",
+      "li3": "Ache kapde pehenna",
+      "li4": "Khushboo lagana",
+      "li5": "Eidgah ki taraf paidal jana",
+      "li6": "Raaste mein takbeerat padhna",
+      "hadith_intro": "Hazrat Ali (RA) se riwayat hai:",
+      "hadith_quote": "Eid ke din ghusl karna mustahab hai."
+    },
+    "page19": {
+      "title": "Eid ke din Mamnu Umour",
+      "p1": "Eid ke din Mamnu Umour",
+      "q1_question": "Sawal: Eid ke din kin baaton se bachna chahiye?",
+      "q1_answer": "Jawab: Eid ke din neeche diye gaye umoor se bachna chahiye:",
+      "li1": "Fazool kharchi karna",
+      "li2": "Gunah ke kaam karna",
+      "li3": "Doosron ko takleef pahunchana",
+      "li4": "Waqt zaya karna",
+      "p2_desc": "Musalmano ko chahiye ke Eid ke din khushi manayein lekin is baat ka khayal rakhein ke koi aisa kaam na karein jo Shariat ke khilaf ho."
+    },
+    "page20": {
+      "title": "Eid ki Hikmat",
+      "p1": "Eid ki Hikmat",
+      "q1_question": "Sawal: Eid manane ki hikmat kya hai?",
+      "q1_answer": "Jawab: Eid manane ki hikmat ye hai ke Musalman Allah Ta’ala ki ne’maton par khushi ka izhar karein aur uska shukar ada karein.",
+      "p1_desc1": "Ramzan-ul-Mubarak ke roze rakhne aur ibadat karne ke baad Allah Ta’ala ne Musalmano ko Eid ki khushi ata farmayi hai.",
+      "p1_desc2": "Eid Musalmano ke darmiyan mohabbat, bhai chara aur ittehad paida karne ka zariya bhi hai.",
+      "p1_desc3": "Is din Musalman ek doosre se milte hain, mubarakbad dete hain aur khushi ka izhar karte hain."
+    },
+    "page21": {
+      "title": "Khulasa",
+      "p1": "Khulasa",
+      "p1_desc1": "Eid-ul-Fitr Musalmano ke liye khushi aur shukar ka din hai. Is din Musalman Allah Ta’ala ka shukar ada karte hain ke us ne Ramzan-ul-Mubarak ke roze rakhne aur ibadat karne ki taufiq ata farmayi.",
+      "p1_desc2": "Eid ke din namaz-e-Eid ada ki jati hai, Sadaqa-e-Fitr diya jata hai aur Musalman aapas mein mohabbat aur bhai chara ka izhar karte hain.",
+      "p1_desc3": "Islam hume ye taleem deta hai ke apni khushiyon mein ghareeb aur mohtaj logon ko bhi shareek karein.",
+      "p1_desc4": "Lehaza hume chahiye ke Eid ke din Allah Ta’ala ka shukar ada karein, neik aamal karein aur doosron ke saath acha sulook karein.",
+      "home_btn": "Home Page par wapas jayen"
+    }
+  },
+  "quiz": {
+    "title": "Sunnat Knowledge Quiz",
+    "subtitle": "Apna certificate unlock karne ke liye ye छोटा sa quiz poora karein",
+    "btn_start": "Start Quiz",
+    "btn_submit": "Submit Answers",
+    "btn_retry": "Try Again",
+    "status_pass": "Bohat Khoob! Aapne Eid ki Sunnaton ko ache se samajh liya hai.",
+    "status_fail": "Pareshan na hon! Guide ko dobara padhein aur phir se koshish karein.",
+    "questions": [
+      {
+        "q": "Eid ki raat (Chand Raat) ibadat karne ki kya fazilat hai?",
+        "options": ["Aaram ka din", "Jis din logon ke dil marenge, us din aapka dil nahi marega", "Zaroori roza", "Koi khaas fazilat nahi"],
+        "correct": 1
+      },
+      {
+        "q": "Eid-ul-Fitr ki namaz ke liye jaane se pehle kya khana chahiye?",
+        "options": ["Kuch nahi", "Full khana", "Taaq adad (odd number) khajoorein", "Sirf mithaayi"],
+        "correct": 2
+      },
+      {
+        "q": "Namaz-e-Eid mein kitni extra Takbeerein hoti hain?",
+        "options": ["Ek bhi nahi", "Teen", "Chhe (6)", "Baarah (12)"],
+        "correct": 2
+      },
+      {
+        "q": "Sadaqat-ul-Fitr dene ka behtareen waqt kab hai?",
+        "options": ["Eid ki namaz ke baad", "Eid ki namaz se pehle", "Sirf Ramzan mein", "Saal mein kabhi bhi"],
+        "correct": 1
+      },
+      {
+        "q": "Eidgah se wapsi par Sunnat tareeqa kya hai?",
+        "options": ["Usi raste se", "Doosre raste se", "Bhag kar ana", "Sabka intezar karna"],
+        "correct": 1
+      },
+      {
+        "q": "Kya Eid-ul-Fitr ke din roza rakhna allowed hai?",
+        "options": ["Haan, ye recommended hai", "Nahi, ye haram hai", "Sirf agar aapke Ramzan ke roze chhoot gaye hon", "Ye optional hai"],
+        "correct": 1
+      },
+      {
+        "q": "Eid ke din nahane ki kya ehmiyat hai?",
+        "options": ["Ghusl karna Sunnat hai", "Ye bas ek normal nahan hai", "Zaroori nahi hai", "Nahan sirf Hajiyon ke liye hai"],
+        "correct": 0
+      },
+      {
+        "q": "Eidgah jaate waqt kya zor se parhna chahiye?",
+        "options": ["Durood Shareef", "Takbeer (Allahu Akbar...)", "Kalima", "Surah Fatiha"],
+        "correct": 1
+      },
+      {
+        "q": "Eid par common Sunnat greeting kya hai?",
+        "options": ["Happy Birthday", "Taqabbalallahu Minna wa Minkum", "Sirf Eid Mubarak", "Salaam"],
+        "correct": 1
+      },
+      {
+        "q": "Sadaqat-ul-Fitr kis par wajib hai?",
+        "options": ["Sirf ghar ke bade par", "Har Muslim jis ke paas ek din ka khana ho", "Sirf ameer logon par", "Sirf badon par"],
+        "correct": 1
+      }
+    ]
+  },
+  "ai_assistant": {
+    "header": "Sunnah Assistant",
+    "placeholder": "Sunnat ke baare mein poochein...",
+    "callout": "Sunnat ke baare mein poochein!",
+    "initial_message": "Walaikum Assalam! Main aapka Sunnah Assistant hoon. Main aaj aapki kaise madad kar sakta hoon?"
+  },
+  "shawwal_tracker": {
+    "title": "Shawwal ke 6 Din",
+    "desc": "Apne Shawwal ke rozon ka track rakhein taaki Ramadan ki barkat baaki rahe.",
+    "day_label": "Din",
+    "completed_msg": "Mubarak! Aapne Shawwal ke 6 Sunnat roze poore kar liye hain."
+  },
+  "fitrana_calc": {
+    "title": "Global Fitrana Calculator",
+    "desc": "Apne region ke hisab se wazan ya currency mein Fitrana calculate karein.",
+    "members_label": "Family Members",
+    "region_label": "Region Select Karein",
+    "rate_label": "Anaaj / Rate",
+    "calculate_btn": "Calculate Total",
+    "result_weight": "Total Anaaj ka Wazan",
+    "result_money": "Total Rakm (Currency)",
+    "share_btn": "Calculation Share Karein",
+    "note": "*Note: Standard miqdar 2.5kg se 3kg anaaj hai. Currency rates local markets ke hisab se estimated hain.",
+    "regions": {
+      "india": "India (INR)",
+      "pakistan": "Pakistan (PKR)",
+      "bangladesh": "Bangladesh (BDT)",
+      "middle_east": "Middle East (AED/SAR)",
+      "europe": "Europe (EUR)",
+      "uk": "United Kingdom (GBP)",
+      "usa": "USA (USD)",
+      "canada": "Canada (CAD)",
+      "others": "Others (Sirf Weight)"
+    }
+  },
+
+  "eid_dua": {
+    "title": "Eid ki Sunnah Dua",
+    "subtitle": "Sahaba-e-Kiram ki ek khoobsurat riwayat",
+    "arabic": "تَقَبَّلَ اللَّهُ مِنَّا وَمِنْكُمْ",
+    "transliteration": "Taqabbalallahu minna wa minkum",
+    "translation": "Allah hamari aur aap ki taraf se (neek kaam) qubool farmaye.",
+    "context": "Jab Sahaba-e-Kiram Eid ke din milte thay, toh wo ek dusre ko ye dua dete thay."
+  },
+
+
+  "takbeer_counter": {
+    "title": "Interactive Takbeer Counter",
+    "desc": "Eid ki Takbeerat parhein aur apna count track karein.",
+    "takbeer_text": "Allahu Akbar, Allahu Akbar, La ilaha illallah, Wallahu Akbar, Allahu Akbar, wa lillahil hamd",
+    "count_label": "Recitations",
+    "reset_btn": "Counter Reset Karein",
+    "share_btn": "Milestone Share Karein"
+  },
+  "audio_player": {
+    "title": "Spiritual Audio",
+    "desc": "Professional recitations sunein sahi talaffuz (pronunciation) ke saath.",
+    "track1_title": "Eid Takbeerat - Makkah",
+    "track1_desc": "Grand Mosque (Makkah) ki professional recitation",
+    "track2_title": "Surah Al-Fatiha - Mishary",
+    "track2_desc": "Sheikh Mishary Rashid Al-Afasy ki awaaz mein"
+  }
+}

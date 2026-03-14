@@ -1,0 +1,23 @@
+{
+  "name": "Eid Guide",
+  "short_name": "Eid Guide",
+  "description": "The Ultimate 21-Step Guide to Celebrating Eid according to the Sunnah.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#F9FAFB",
+  "theme_color": "#10B981",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "orientation": "portrait"
+}

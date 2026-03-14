@@ -1,0 +1,51 @@
+<nav class="navbar navbar-expand-lg sticky-top w-100">
+  <div class="container">
+    <a class="navbar-brand d-flex align-items-center" href="index.html" style="direction: ltr;">
+      <i class="fa-solid fa-moon me-2 align-middle"></i><span data-i18n="app.name">Eid Guide</span>
+    </a>
+    <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link" href="index.html" data-i18n="nav.home">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="page-1.html" data-i18n="toc.ch1">Spirit of Eid</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="page-8.html" data-i18n="toc.ch2">Prayer Guide</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="page-12.html" data-i18n="toc.ch3">Sadaqah Guide</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="page-18.html" data-i18n="toc.ch4">Traditions & Wisdom</a>
+        </li>
+      </ul>
+      <div class="d-flex align-items-center mt-3 mt-lg-0">
+        <button class="btn btn-primary-theme btn-sm rounded-pill me-3 d-none d-lg-block" type="button" data-bs-toggle="offcanvas" data-bs-target="#tocOffcanvas">
+            <i class="fa-solid fa-list-ul me-1"></i> <span data-i18n="revamped_home.all_topics_btn">Topics</span>
+        </button>
+        <button class="btn btn-outline-theme btn-sm rounded-pill me-3" type="button" id="theme-toggle-btn" onclick="window.ThemeSwitcher.toggle()">
+            <i class="fa-solid fa-moon"></i>
+        </button>
+        <button class="btn btn-outline-theme btn-sm rounded-pill me-3" type="button" data-bs-toggle="modal" data-bs-target="#searchModal">
+
+            <i class="fa-solid fa-magnifying-glass"></i>
+        </button>
+        <div class="dropdown">
+          <button class="btn btn-outline-theme btn-sm dropdown-toggle rounded-pill" type="button" id="languageDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+            <i class="fa-solid fa-globe me-1"></i> <span id="currentLangDisplay">EN</span>
+          </button>
+          <ul class="dropdown-menu dropdown-menu-end lang-dropdown-menu" aria-labelledby="languageDropdown">
+            <li><a class="dropdown-item lang-dropdown-item language-select" href="#" data-lang="english" data-display="EN">English</a></li>
+            <li><a class="dropdown-item lang-dropdown-item language-select" href="#" data-lang="urdu" data-display="UR">Urdu (اردو)</a></li>
+            <li><a class="dropdown-item lang-dropdown-item language-select" href="#" data-lang="hinglish" data-display="HI">Hinglish</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</nav>

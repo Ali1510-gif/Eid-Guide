@@ -1,0 +1,167 @@
+/* Responsive Utilities for Eid Guide Web App */
+
+@media (max-width: 991.98px) {
+  .hero-title {
+    font-size: 2.8rem;
+  }
+  
+  .navbar-nav {
+    padding-top: 15px;
+  }
+  
+  .nav-link::after {
+    display: none;
+  }
+  
+  .nav-link {
+    padding: 10px 0 !important;
+    border-bottom: 1px solid rgba(0,0,0,0.05);
+  }
+  
+  .nav-link:last-child {
+    border-bottom: none;
+  }
+}
+
+/* Mobile-Specific Refinements V3 */
+@media (max-width: 767.98px) {
+  .hero-title {
+    font-size: 2.2rem;
+  }
+  
+  .hero-section {
+    padding: 80px 0 60px;
+    text-align: center;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+  }
+  
+  .glass-card {
+    padding: 1.5rem !important;
+  }
+  
+  .section-title {
+    font-size: 1.75rem;
+    text-align: center !important;
+  }
+  
+  .btn-premium {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 14px 20px;
+  }
+
+  .checklist-item {
+    padding: 1rem !important;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .hero-title {
+    font-size: 1.8rem;
+  }
+  
+  .hero-subtitle {
+    font-size: 1rem;
+    padding: 0 15px;
+  }
+
+  .theme-card-icon i {
+    font-size: 1.5rem !important;
+  }
+}
+
+/* Extreme Mobile Scaling Fixes (Max width: 375px) */
+@media (max-width: 375px) {
+  /* Scale down the share card so it fits on tiny screens */
+  #custom-card-preview-wrapper,
+  .share-card-wrapper {
+      transform: scale(0.7) !important;
+      transform-origin: top center;
+      margin-bottom: -15% !important;
+  }
+}
+
+/* Share Card Modal Fixes (Max width: 991px) */
+@media (max-width: 991.98px) {
+  /* Move preview below form on tablets and shrink slightly to always fit */
+  #custom-card-preview-wrapper {
+    transform: scale(0.8) !important;
+    transform-origin: center;
+  }
+}
+
+/* Audio Player Mobile Enhancements (Max width: 767px) */
+@media (max-width: 767.98px) {
+    .audio-player-premium .col-md-5.border-end-md {
+        border-right: none !important;
+        border-bottom: 1px solid #e9ecef;
+        padding-bottom: 1.5rem;
+    }
+    
+    .audio-player-premium .col-md-7 {
+        padding-top: 1.5rem;
+    }
+}
+
+/* Phase 2: Core Features Mobile Enhancements */
+@media (max-width: 767.98px) {
+  /* Takbeer Counter */
+  .takbeer-premium-card {
+      padding: 1.5rem !important; /* reduce from p-5 to p-3 */
+  }
+  .modern-counter-ring {
+      width: 250px;
+      height: 250px;
+  }
+  #takbeer-share-card {
+      width: 320px !important; /* scale down share card width on small screens */
+      padding: 30px !important;
+  }
+  .arabic-text-main {
+      font-size: 1.3rem !important;
+      line-height: 1.8 !important;
+  }
+  .takbeer-glass-box {
+      padding: 1rem !important;
+  }
+  
+  /* Chand Raat Page */
+  .celestial-highlight {
+      padding: 20px !important;
+  }
+  .page-header-chand .display-4 {
+      font-size: 2.5rem;
+  }
+  .arabic-text-premium {
+      font-size: 1.8rem !important;
+      line-height: 2 !important;
+  }
+  .dua-arabic {
+      font-size: 1.8rem !important;
+  }
+  
+  /* AI Assistant Chatbot */
+  .ai-chat-window {
+      width: calc(100vw - 40px) !important;
+      max-height: 70vh !important;
+      right: 20px !important;
+      bottom: 80px !important;
+  }
+}
+
+@media (max-width: 575.98px) {
+  /* Smaller mobile screens */
+  .modern-counter-ring {
+      width: 200px;
+      height: 200px;
+  }
+  #takbeer-count-display {
+      font-size: 4rem !important;
+  }
+  .ai-chat-window {
+      width: calc(100vw - 30px) !important;
+      right: 15px !important;
+  }
+}
+
